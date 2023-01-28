@@ -400,7 +400,7 @@ canvas#canvas {
     border-radius: 15px;
     background-color: rgba(0, 0, 0, 1);
     border: none;
-    max-width: 720px;
+    max-width: 600px;
     width: 100%;
     margin-right: auto;
     margin-left: auto;
@@ -415,7 +415,7 @@ canvas#canvas {
     border-radius: 15px;
     background-color: rgba(0, 0, 0, 1);
     border: none;
-    max-width: 770px;
+    max-width: 600px;
     width: 100%;
     height: 640px;
     margin-right: auto;
@@ -428,7 +428,7 @@ canvas#canvas {
     font-family: 'Gotham Pro';
     font-style: normal;
     font-weight: 700;
-    font-size: 48px;
+    font-size: 42px;
     line-height: 125%;
     text-align: center;
     text-transform: uppercase;
@@ -452,7 +452,7 @@ canvas#canvas {
     font-family: 'Gotham Pro';
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 28px;
     line-height: 125%;
     text-align: center;
     text-transform: uppercase;
@@ -482,7 +482,7 @@ canvas#canvas {
 }
 
 #animatedModal .btn {
-    max-width: 320px;
+    max-width: 260px;
     width: 100%;
     height: 47px;
     text-align: center;
